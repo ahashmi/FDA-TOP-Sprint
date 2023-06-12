@@ -1,0 +1,20 @@
+
+
+    Directory: C:\Users\AliHashmi\Desktop\Development\FDA-TOP-Sprint\references
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         5/22/2023  8:41 PM                IBM FHIR Training
+-a----         5/23/2023  9:15 AM         461029 Auth0-WP-SMART-Best-Practices.pdf
+-a----         5/23/2023  9:17 AM              0 contents.txt
+-a----         5/22/2023  6:54 PM         633157 hhs-guidance-implementation.pdf
+
+    Directory: C:\Users\AliHashmi\Desktop\Development\FDA-TOP-Sprint\references\IBM FHIR Training
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         5/22/2023  7:17 PM        4135391 Designing FHIR Solutions.pptx
+-a----         5/22/2023  7:17 PM        4373792 FHIR for Software Developers.pptx
+-a----         5/22/2023  7:17 PM        6328806 FHIR Profiling.pptx
+-a----         5/22/2023  7:17 PM        6430600 Introduction to FHIR_Webinar.pptx
+
