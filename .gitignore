@@ -1,3 +1,4 @@
 DATA/
 .virtual_documents/
 .ipynb_checkpoints/
+.env
