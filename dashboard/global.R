@@ -27,14 +27,14 @@ counties <- readRDS("shapes/us2.RDS")
 spdfs_list <- list(states, counties)
 
 us_health_states <- readr::read_delim(
-  "healthdata/clean/us_health_states.csv", ";", 
+  "healthdata/clean/demo_sdoh_states.csv", ",", 
   escape_double = FALSE, trim_ws = TRUE,
   col_types = readr::cols(),
   locale = readr::locale(decimal_mark = ",", grouping_mark = ".")
 )
 
 us_health_counties <- readr::read_delim(
-  "healthdata/clean/us_health_counties.csv", ";", 
+  "healthdata/clean/demo_sdoh_counties.csv", ",", 
   escape_double = FALSE, trim_ws = TRUE,
   col_types = readr::cols(),
   locale = readr::locale(decimal_mark = ",", grouping_mark = ".")

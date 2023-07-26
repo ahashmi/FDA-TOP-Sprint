@@ -8,7 +8,7 @@ mod_healthdown_ui <- function(id) {
       box(
         width = 2,
         class = "card-hexagon",
-        img(src = "assets/images/hex-healthdown.png"),
+        img(src = "assets/images/IBM_hexagon.png"),
         div("Health Ranking", class = "card-hexagon-title")
       ),
       box(
@@ -51,11 +51,11 @@ mod_healthdown_ui <- function(id) {
         width = 2,
         class = "card-hexagon",
         div(style = "height: 100px; width: 100px", 
-        img(src = "assets/images/hex-leafdown.png"),
+        img(src = "assets/images/02_8-bar-reverse.svg"),
         div(
           class = "card-hexagon-title",
           tags$a(
-            "Leafdown", 
+            "FDA TOP", 
             tags$i(class = "fas fa-xs fa-external-link-alt"), 
             href = "https://github.com/hoga-it/leafdown", 
             target = "_blank", 
