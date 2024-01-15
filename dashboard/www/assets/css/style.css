@@ -151,12 +151,13 @@ a,
 
 /* Sections */
 .navbar-custom + .main {
-  margin-top: 50px;
+  /* margin-top: 50px; */
+  padding-top: 80px;
 }
 
 .main {
   position: relative;
-  background-color: #fff;
+  background-color: #000; /*#fff;*/
   z-index: 1;
 }
 
